@@ -25,13 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Annu Poonia",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Front-end Web Developer",
+  email: "annupoonia086@gmail.com",
+  gitHub: "annu-1210",
+  instagram: "poonia_1210 ",
+  linkedIn: "annu-poonia-b761222b7/",
   medium: "",
-  twitter: "microsoft",
+  twitter: "poonia_1210",
   youTube: "Code",
 };
 
