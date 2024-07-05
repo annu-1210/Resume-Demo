@@ -37,6 +37,7 @@ const skillsList = ["Web design", "HTML", "CSS", "JavaScript", "React.js", "Git"
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
+
 const detailOrQuote =
   "I am committed to leveraging my skills to develop innovative projects that contribute to user-friendly and efficient solutions.";
 
